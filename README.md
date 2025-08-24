@@ -10,7 +10,7 @@ Olá! Este repositório é dedicado a registrar minha jornada e evolução na di
 * **Arquivo do Projeto:** [`projeto_chapeuzinho_vermelho.sb3`](./Semana_01_Chapeuzinho_Vermelho/projeto_chapeuzinho_vermelho.sb3)
 * **Veja online no Scratch:** [https://scratch.mit.edu/projects/1205194518]
 
-![Prévia do Projeto Chapeuzinho Vermelho](./Semana_01_Chapeuzinho_Vermelho/chapeuzinho.png)
+![Prévia do Projeto Chapeuzinho Vermelho](./Semana_03_01_Chapeuzinho_Vermelho/chapeuzinho.png)
 
 ---
 
@@ -20,7 +20,7 @@ Olá! Este repositório é dedicado a registrar minha jornada e evolução na di
 * **Arquivo do Projeto:** [`projeto_gato_binario.sb3`](./Semana_04_Gato_Binario/projeto_gato_binario.sb3)
 * **Veja online no Scratch:** [https://scratch.mit.edu/projects/1207169116]
 
-![Prévia do Projeto Gato Binário](./Semana_04_Gato_Binario/gato_binario.png)
+![Prévia do Projeto Gato Binário](./Semana_04_02_Gato_Binario/gato_binario.png)
 
 ---
 *Este repositório será atualizado conforme novos projetos forem desenvolvidos ao longo do curso.*
