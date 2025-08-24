@@ -1,2 +1,26 @@
-# UNIVESP-Pensamento-Computacional
-Repositório para registrar minha evolução e projetos da disciplina de Pensamento Computacional da UNIVESP (2025)
+# Meus Projetos de Pensamento Computacional - Graduação Ciência de Dados - UNIVESP
+
+Olá! Este repositório é dedicado a registrar minha jornada e evolução na disciplina de Pensamento Computacional do curso de Ciência de Dados da UNIVESP durante o ano de 2025. Aqui você encontrará os projetos desenvolvidos, os desafios enfrentados e os conceitos que aprendi.
+
+## 🚀 Projetos Desenvolvidos
+
+### 1. Projeto 01 Chapeuzinho Vermelho (Semana 3)
+* **Descrição:** Uma pequena animação ou história interativa baseada no conto da Chapeuzinho Vermelho, meu primeiro contato com a lógica de animação e diálogo no Scratch.
+* **Conceitos aplicados:** Sequência de comandos, controle de tempo, movimento de atores e diálogo.
+* **Arquivo do Projeto:** [`projeto_chapeuzinho_vermelho.sb3`](./projeto_chapeuzinho_vermelho.sb3)
+* **Veja online no Scratch:** [https://scratch.mit.edu/projects/1205194518]
+
+![Prévia do Projeto Chapeuzinho Vermelho](./chapeuzinho.png)
+
+---
+
+### 2. Projeto 02 Gato Binário (Semana 4)
+* **Descrição:** Um jogo interativo onde o "Gato Binário" pede um número ao usuário. O programa utiliza condicionais para verificar se o número é menor que 10 e, em caso positivo, realiza uma contagem progressiva. O projeto inclui animações de entrada e de miado para tornar a experiência mais imersiva.
+* **Conceitos aplicados:** Variáveis, estruturas condicionais (se/senão), laços de repetição, entrada e saída de dados, e animação com fantasias e movimento sincronizado.
+* **Arquivo do Projeto:** [`projeto_gato_binario.sb3`](./projeto_gato_binario.sb3)
+* **Veja online no Scratch:** [https://scratch.mit.edu/projects/1207169116]
+
+![Prévia do Projeto Gato Binário](./gato_binario.png)
+
+---
+*Este repositório será atualizado conforme novos projetos forem desenvolvidos ao longo do curso.*
