@@ -10,7 +10,7 @@ Olá! Este repositório é dedicado a registrar minha jornada e evolução na di
 * **Arquivo do Projeto:** [`Remix_grab_bob_esponja.sb3`](./Semana_05_03_GrabBob_esponja/Remix_grab_bob_esponja.sb3)
 * **Veja online no Scratch:** [https://scratch.mit.edu/projects/1209093881]
 
-![Prévia do Projeto da Semana 5](./Semana_05_03_GrabBob_esponja/grabBobesponja.png)
+![Prévia do Projeto da Semana 5](./Semana_05_03_GrabBob_esponja/crabBobesponja.png)
 
 ---
 
