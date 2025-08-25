@@ -7,7 +7,7 @@ Olá! Este repositório é dedicado a registrar minha jornada e evolução na di
 ### Semana 5: Projeto 03 Remix de projeto personalizado de acordo com minhas idéias pessoais.
 * **Descrição:** Este projeto é um remix de um jogo "apanhador de maçãs", transformado em uma cena cômica interativa com os personagens Bob Esponja e Patrick. A narrativa e o humor foram o foco principal, criando uma experiência única a partir de uma base simples.
 * **Conceitos aplicados:** Aprendizagem Criativa (Remix), sincronização de múltiplos atores com o sistema de mensagens (`transmitir` e `receber`), animação de entrada, depuração de estado (resolvendo o problema de atores que não reapareciam) e design de som.
-* **Arquivo do Projeto:** [`Remix_grab_bob_esponja.sb3`](./Semana_05_03_GrabBob_esponja/Remix_grab_bob_esponja.sb3)
+* **Arquivo do Projeto:** [`Remix_crab_bob_esponja.sb3`](./Semana_05_03_GrabBob_esponja/Remix_crab_bob_esponja.sb3)
 * **Veja online no Scratch:** [https://scratch.mit.edu/projects/1209093881]
 
 ![Prévia do Projeto da Semana 5](./Semana_05_03_GrabBob_esponja/crabBobesponja.png)
