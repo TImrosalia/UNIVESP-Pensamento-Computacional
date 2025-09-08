@@ -4,6 +4,19 @@ Olá! Este repositório é dedicado a registrar minha jornada e evolução na di
 
 ## 🚀 Projetos Desenvolvidos
 
+### Semana 6: Projeto 04 Superpoderes (Teletransporte da Grace).
+
+**Descrição:** A Grace usa o poder de teletransporte para resgatar animais em perigo e levá-los a um abrigo seguro. O clique do jogador no animal é o gatilho: a Grace se teletransporta com o bichinho, muda o cenário do perigo para o abrigo e avança a história.
+
+**Conceitos aplicados:** Eventos de clique, transmitir/receber mensagens, troca de cenários, animação e lógica sequencial.
+
+**Arquivo do projeto:** [projeto_superpoderes.sb3](./projeto_superpoderes.sb3)  
+**Link no Scratch:** [https://scratch.mit.edu/projects/1212731315]
+
+![Previa do Projeto da Semana 6](./projeto_superpoderes/gracesuper.png) 
+
+---
+
 ### Semana 5: Projeto 03 Remix de projeto personalizado de acordo com minhas idéias pessoais.
 * **Descrição:** Este projeto é um remix de um jogo "apanhador de maçãs", transformado em uma cena cômica interativa com os personagens Bob Esponja e Patrick. A narrativa e o humor foram o foco principal, criando uma experiência única a partir de uma base simples.
 * **Conceitos aplicados:** Aprendizagem Criativa (Remix), sincronização de múltiplos atores com o sistema de mensagens (`transmitir` e `receber`), animação de entrada, depuração de estado (resolvendo o problema de atores que não reapareciam) e design de som.
