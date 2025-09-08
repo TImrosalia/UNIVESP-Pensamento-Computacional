@@ -4,7 +4,7 @@ Olá! Este repositório é dedicado a registrar minha jornada e evolução na di
 
 ## 🚀 Projetos Desenvolvidos
 
-### Semana 6: Projeto 04 Superpoderes (Teletransporte da Grace).
+### Semana 6: Projeto 04 Superpoderes - Teletransporte.
 
 **Descrição:** A Grace usa o poder de teletransporte para resgatar animais em perigo e levá-los a um abrigo seguro. O clique do jogador no animal é o gatilho: a Grace se teletransporta com o bichinho, muda o cenário do perigo para o abrigo e avança a história.
 
@@ -13,7 +13,7 @@ Olá! Este repositório é dedicado a registrar minha jornada e evolução na di
 **Arquivo do projeto:** [projeto_superpoderes.sb3](./projeto_superpoderes.sb3)  
 **Link no Scratch:** [https://scratch.mit.edu/projects/1212731315]
 
-![Previa do Projeto da Semana 6](./projeto_superpoderes/gracesuper.png) 
+![Previa do Projeto da Semana 6](./Semana_06_04_Superpoderes/gracesuper.png) 
 
 ---
 
