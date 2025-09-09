@@ -4,6 +4,27 @@ Olá! Este repositório é dedicado a registrar minha jornada e evolução na di
 
 ## 🚀 Projetos Desenvolvidos
 
+---
+
+### Semana 7: Projetos 05 e 06 – Música com IA (Suno) e Quiz com Kahoot!
+
+#### Projeto 05 – Música-tema com Suno
+Música criada com inteligência artificial para o estúdio de Pilates *Mova-se*.  
+🎵 [Ouvir no Suno](https://suno.com/s/uqsWXnJ5ikgukZJS)
+
+![Preview Projeto Suno](Semana_07_05-06_Projetos/PilatesOnline.png)
+
+---
+
+#### Projeto 06 – Quiz de Revisão com Kahoot!
+Quiz interativo para revisão da semana de provas.  
+👉 [Participar do Quiz](https://kahoot.it/challenge/08732145?challenge-id=ee08283e-7662-4230-98d1-87ece845483d_1757344067825) | **PIN:** 08732145  
+⏳ Disponível até 18/09/2025 às 18h00  
+
+![Preview Projeto Kahoot](Semana_07_05-06_Projetos/QuizRevisao.png)
+
+---
+
 ### Semana 6: Projeto 04 Superpoderes - Teletransporte.
 
 **Descrição:** A Grace usa o poder de teletransporte para resgatar animais em perigo e levá-los a um abrigo seguro. O clique do jogador no animal é o gatilho: a Grace se teletransporta com o bichinho, muda o cenário do perigo para o abrigo e avança a história.
